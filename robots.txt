@@ -1,0 +1,8 @@
+User-Agent: *
+Disallow: /login
+Sitemap: https://ezediine.github.io/GRZ/sitemap_index.txt.gz
+Sitemap: https://ezediine.github.io/LIB/sitemap_index.txt.gz
+Sitemap: https://ezediine.github.io/POZ/sitemap_index.txt.gz
+Sitemap: https://ezediine.github.io/gvf/sitemap_index.txt.gz
+Sitemap: https://ezediine.github.io/sitemap/sitemap_index.txt.gz
+Sitemap: https://ezediine.github.io/xeI/sitemap_index.txt.gz
